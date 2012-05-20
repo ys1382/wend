@@ -1,0 +1,3 @@
+SJCL:
+	download from https://github.com/justindthomas/sjcl
+	./configure --with-all
